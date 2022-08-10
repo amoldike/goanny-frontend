@@ -1,0 +1,8 @@
+.imageContainer {
+  display: none;
+  width: 40vw;
+}
+img {
+  margin-top: 7rem;
+  margin-left: -3rem;
+}

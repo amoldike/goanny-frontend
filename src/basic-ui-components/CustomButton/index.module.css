@@ -1,0 +1,9 @@
+.submitBtn {
+  width: 100%;
+  margin-top: 1rem;
+  background-color: #032c53;
+  font-weight: bold;
+}
+.submitBtn:hover {
+  background-color: #073969;
+}
